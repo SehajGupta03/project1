@@ -1,0 +1,37 @@
+var class_game =
+[
+    [ "GameStates", "class_game.html#adce4f6e20f457d5b8d62e89bf97a1235", [
+      [ "ENDING", "class_game.html#adce4f6e20f457d5b8d62e89bf97a1235a886ea309cfc454262fe09db85c9c231c", null ],
+      [ "STARTING", "class_game.html#adce4f6e20f457d5b8d62e89bf97a1235a63293cf8c40fe1ed720b07a71f73073d", null ],
+      [ "PLAYING", "class_game.html#adce4f6e20f457d5b8d62e89bf97a1235a72d5f36982a4f19b2444f52a14a7e1a4", null ]
+    ] ],
+    [ "Game", "class_game.html#ad59df6562a58a614fda24622d3715b65", null ],
+    [ "Accept", "class_game.html#a1d5427cd04f66ccaf8fecd4fd16f52f4", null ],
+    [ "Add", "class_game.html#a93ed4534a739ae39ae5d953f910c155f", null ],
+    [ "Clear", "class_game.html#a550e6ba9715ae3c39af958641070bf48", null ],
+    [ "ComputeAllGates", "class_game.html#a93e3f68a4dbc5ca69b5d9e3b3215a08b", null ],
+    [ "GetScale", "class_game.html#aae07592b2ff1aa78df7c733de4ad99cf", null ],
+    [ "GetScore", "class_game.html#a942f4d8250e5548cd1a383297383a126", null ],
+    [ "GetXOffset", "class_game.html#a508bc0348b7d8ad9c569ce4f813d9b65", null ],
+    [ "GetYOffset", "class_game.html#abc7b212fbefba7547bbc9db37635dc55", null ],
+    [ "HitTest", "class_game.html#a32e8ad47c4bc2f11db760be0d248fc6d", null ],
+    [ "Load", "class_game.html#aecda6c56df13138602d1985d3b8bcbc7", null ],
+    [ "MoveBack", "class_game.html#a8b6181d00e59c417c14bd1d9ceaeb182", null ],
+    [ "NextLevel", "class_game.html#a46ccb537d4ee3743b3adb59fbc878891", null ],
+    [ "OnDraw", "class_game.html#a8e99a1ac1bfad902eeb971b72deb41d1", null ],
+    [ "OnLeftDown", "class_game.html#a7e2d9979dc5c0714428bed201f1e8aa7", null ],
+    [ "PinHitTest", "class_game.html#a61d4d9268da8350501054650be25fe77", null ],
+    [ "Update", "class_game.html#a918cabaf9eecf134ff9afd269d194d6f", null ],
+    [ "XmlItem", "class_game.html#a67d9d36b7930b68ad68d77c7304a1e2a", null ],
+    [ "XmlLevel", "class_game.html#aab7b6b7709d9f5396f6811e73e3c5380", null ],
+    [ "mItems", "class_game.html#a48aef721375fc7c4b950f7690fb4d274", null ],
+    [ "mLevel", "class_game.html#aedbe5e4d628825a457b9c6e329f66907", null ],
+    [ "mScale", "class_game.html#a6c9daaf640c9a45b4f343c455e894603", null ],
+    [ "mScore", "class_game.html#a30ff29dd2f5dc86ed50c139bdf41846b", null ],
+    [ "mState", "class_game.html#a32f9b951d285e44a789b80993bba8ebc", null ],
+    [ "mStateTime", "class_game.html#a9067fe4c28ba44f21481847cef7bc8b2", null ],
+    [ "mXInitialSize", "class_game.html#abc5ca96d3caea1461817e8d0c4699914", null ],
+    [ "mXOffset", "class_game.html#a870c44281b1493ab12d3f6d468820934", null ],
+    [ "mYInitialSize", "class_game.html#a1929b727172495a5b392149b4d2d63d0", null ],
+    [ "mYOffset", "class_game.html#a6c9e317626f7145658b7a5e05092cfd2", null ]
+];
